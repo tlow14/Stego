@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\tomlo\source\repos\uggg\uggg\source.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomlo\source\repos\uggg\uggg\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomlo\source\repos\uggg\uggg\source.cpp(93): warning C4018: '<': signed/unsigned mismatch
+  UGGG.vcxproj -> C:\Users\tomlo\source\repos\UGGG\Debug\UGGG.exe
